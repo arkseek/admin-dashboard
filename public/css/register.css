@@ -1,0 +1,41 @@
+body {
+    background-color: #0F1035;
+}
+
+.login {
+    box-shadow: 0 8px 16px 0;
+    text-align: center;
+    width: 300px;
+    height: 300px;
+    margin: auto;
+    margin-top: 250px;
+    border-radius: 4px;
+    background-color: #DCF2F1;
+    padding-top: 3px;
+}
+
+.loginButton {
+    border-radius: 4px;
+    width: 100px;
+    height: 25px;
+    margin-top: 10px;
+}
+
+.loginButtonGoogle {
+    border-radius: 4px;
+    width: auto;
+    height: 25px;
+    margin-top: 10px;
+}
+
+.loginHeader {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #0F1035;
+    font-size: 40px;
+}
+
+.loginBoxes {
+    border-radius: 8px;
+    width: 200px;
+    height: 20px;
+}
